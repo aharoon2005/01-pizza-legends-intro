@@ -13,7 +13,7 @@ class Overworld {
   box.src = "/images/characters/box.png";
  }
 
- 
+ //something
  init() {
   
   const image = new Image();
